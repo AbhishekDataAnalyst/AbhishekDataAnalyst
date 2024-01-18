@@ -1,4 +1,4 @@
-<img src="https://blog.drumup.io/wp-content/uploads/2018/02/source.gif" width="200" height="150">
+[![Header](https://blog.drumup.io/wp-content/uploads/2018/02/source.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek Ramesh Shettigar</h1>
 <h3 align="center">A passionate Data Analyst/Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
