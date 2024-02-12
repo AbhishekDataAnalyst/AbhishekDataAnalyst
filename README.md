@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdataanalyst" /> </p>
 
-- 🔭 I’m currently working on [Credit-Card-Approval](https://github.com/AbhishekDataAnalyst/Credit-Card-Approval/tree/main)
-
 - 🌱 I’m currently learning **Python, EDA, Hypothesis Testing, Machine Learning, SQL, Power BI, Excel, R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekDataAnalyst](https://github.com/AbhishekDataAnalyst)
