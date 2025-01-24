@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdataanalyst" /> </p>
 
-- 🌱 I’m currently learning **Python, EDA, Hypothesis Testing, Machine Learning, SQL, Power BI, Excel, R**
+- 🌱 I’m currently learning **Python, SQL, Power BI, Excel, R, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekDataAnalyst](https://github.com/AbhishekDataAnalyst)
 
